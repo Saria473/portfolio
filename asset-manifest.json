@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.018f3c02.css",
-    "main.js": "/portfolio/static/js/main.30f60531.js",
+    "main.js": "/portfolio/static/js/main.4e098535.js",
     "static/media/Frame 5.jpg": "/portfolio/static/media/Frame 5.4493d5a354f95bf8d65e.jpg",
     "static/media/Frame 1.jpg": "/portfolio/static/media/Frame 1.b1d9d238db54a0283abb.jpg",
     "static/media/Frame 3.jpg": "/portfolio/static/media/Frame 3.9ae54b4d4736a09df806.jpg",
     "static/media/Frame 2.jpg": "/portfolio/static/media/Frame 2.9d561558357bc136cfb8.jpg",
     "static/media/Hello.gif": "/portfolio/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/SariaRukhsar.jpg": "/portfolio/static/media/SariaRukhsar.a12a0b84142f63669078.jpg",
+    "static/media/SariaRukhsar.jpg": "/portfolio/static/media/SariaRukhsar.1526774dee32f346a52f.jpg",
     "static/media/illustration.svg": "/portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/sass-icon.svg": "/portfolio/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
     "static/media/bootstrap-icon.svg": "/portfolio/static/media/bootstrap-icon.841401ea26d932b35693f2b409887874.svg",
@@ -29,10 +29,10 @@
     "static/media/node-icon.svg": "/portfolio/static/media/node-icon.42b15a126fba10105591911166034554.svg",
     "static/media/next-icon.svg": "/portfolio/static/media/next-icon.92e6639425dd79a743d7afef68640c9b.svg",
     "main.018f3c02.css.map": "/portfolio/static/css/main.018f3c02.css.map",
-    "main.30f60531.js.map": "/portfolio/static/js/main.30f60531.js.map"
+    "main.4e098535.js.map": "/portfolio/static/js/main.4e098535.js.map"
   },
   "entrypoints": [
     "static/css/main.018f3c02.css",
-    "static/js/main.30f60531.js"
+    "static/js/main.4e098535.js"
   ]
 }
