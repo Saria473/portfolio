@@ -21,7 +21,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
   <p>
-    Hi there! I'm Saria Rukhsar, a Flutter developer with a passion for crafting custom mobile experiences for my clients. With expertise in Flutter, Dart, and a wide range of mobile development tools, I have the skills to turn any app concept into reality.
+    Hi there! I'm Saria Rukhsar, a Mobile App Developer with a passion for crafting custom mobile experiences for my clients. With expertise in Flutter, Dart, and a wide range of mobile development tools, I have the skills to turn any app concept into reality.
   </p>
 </ScrollAnimation>
 
